@@ -1,0 +1,15 @@
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\bin\Debug\net9.0\Persistence.deps.json
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\bin\Debug\net9.0\Persistence.dll
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\bin\Debug\net9.0\Persistence.pdb
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\bin\Debug\net9.0\Domain.dll
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\bin\Debug\net9.0\Domain.pdb
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.dll
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
+D:\AjayWorkspace\Udemy\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
